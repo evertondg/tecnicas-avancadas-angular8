@@ -113,31 +113,12 @@
       "titulo": "Clercks",
       "urlFoto": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZO8aRsduPEr7RGp7efnm7FgnpiIKyjLk-OAHZENoDNNKJUQTs",
       "dtLancamento": "1994-09-07T03:00:00.000Z",
-      "descricao": "Acompanhe um dia na vida de dois balconistas de conveniência, Dante e Randal. Eles incomodam clientes, discutem filmes e jogam hóquei no telhado da loja.",
+      "descricao": "Acompanhe um dia na vida de dois balconistas de conveniência, Dante e Randal. \nEles incomodam clientes, discutem filmes e jogam hóquei no telhado da loja.",
       "nota": 7.7,
       "urlIMDb": "https://www.imdb.com/title/tt0109445/",
       "genero": "Comédia",
       "id": 12
-    },
-    {
-      "titulo": "Filme sem descricao e foto",
-      "urlFoto": "",
-      "dtLancamento": "2020-03-25T03:00:00.000Z",
-      "descricao": "",
-      "nota": 0,
-      "urlIMDb": "",
-      "genero": "Comédia",
-      "id": 13
-    },
-    {
-      "titulo": "MAIS TESTE",
-      "urlFoto": "",
-      "dtLancamento": "2020-03-20T03:00:00.000Z",
-      "descricao": "TESTE\nTESTE\nTESTE3",
-      "nota": 8,
-      "urlIMDb": "",
-      "genero": "Romance",
-      "id": 14
     }
+
   ]
 }
