@@ -1,0 +1,11 @@
+<div [formGroup]="formGroup">
+  <mat-form-field class="full-width">
+    <mat-select [placeholder]="titulo" [formControlName]="controlName">
+      <mat-option *ngFor="let opcao of opcoes">{{opcao}}</mat-option>
+
+    </mat-select>
+    <mat-error *ngIf="validacao.hasErrorValidar(formControl,'required')">
+      Campo precisa ter no mínimo 10 caracteres
+    </mat-error>
+  </mat-form-field>
+</div>
